@@ -1,2 +1,3 @@
 # hello-world
-Einstieg Github
+Mein Einstieg in Github.
+Erste Schritte mit Plotly/Dash
